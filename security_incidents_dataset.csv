@@ -1,0 +1,111 @@
+incident_id,description,priority
+1.0,Unattended bag detected at metro station.,High
+2.0,Unattended bag detected at metro station.,High
+3.0,Accident with injuries reported on highway.,High
+4.0,Car theft reported in parking lot.,High
+5.0,Break-in attempt at residential house.,High
+6.0,Accident with injuries reported on highway.,High
+7.0,Break-in attempt at residential house.,High
+8.0,Unattended bag detected at metro station.,High
+9.0,Accident with injuries reported on highway.,High
+10.0,Fire alarm triggered in office building.,High
+11.0,Unattended bag detected at metro station.,High
+12.0,Break-in attempt at residential house.,High
+13.0,Explosion heard near industrial area.,High
+14.0,Suspicious person attempting to break into a parked car.,High
+15.0,Unattended bag detected at metro station.,High
+16.0,Unattended bag detected at metro station.,High
+17.0,Accident with injuries reported on highway.,High
+18.0,Fire alarm triggered in office building.,High
+19.0,Accident with injuries reported on highway.,High
+20.0,Armed robbery in progress at convenience store.,High
+21.0,Fight reported outside a shopping mall.,High
+22.0,Break-in attempt at residential house.,High
+23.0,Break-in attempt at residential house.,High
+24.0,Armed robbery in progress at convenience store.,High
+25.0,Unattended bag detected at metro station.,High
+26.0,Suspicious person attempting to break into a parked car.,High
+27.0,Armed robbery in progress at convenience store.,High
+28.0,Armed robbery in progress at convenience store.,High
+29.0,Break-in attempt at residential house.,High
+30.0,Person carrying weapon spotted near school.,High
+31.0,Car theft reported in parking lot.,High
+32.0,Explosion heard near industrial area.,High
+33.0,Fire alarm triggered in office building.,High
+34.0,Unattended bag detected at metro station.,High
+35.0,Fight reported outside a shopping mall.,High
+36.0,Fight reported outside a shopping mall.,High
+37.0,Fight reported outside a shopping mall.,High
+38.0,Unattended bag detected at metro station.,High
+39.0,Suspicious person attempting to break into a parked car.,High
+40.0,Break-in attempt at residential house.,High
+41.0,Person carrying weapon spotted near school.,High
+42.0,Break-in attempt at residential house.,High
+43.0,Break-in attempt at residential house.,High
+44.0,Fire alarm triggered in office building.,High
+45.0,Person carrying weapon spotted near school.,High
+46.0,Person carrying weapon spotted near school.,High
+47.0,Break-in attempt at residential house.,High
+48.0,Suspicious person attempting to break into a parked car.,High
+49.0,Break-in attempt at residential house.,High
+50.0,Unattended bag detected at metro station.,High
+51.0,Garbage collection delayed in residential area.,Low
+52.0,Pothole reported on main street.,Low
+53.0,Overcrowding reported at bus stop.,Low
+54.0,Construction noise complaint from residents.,Low
+55.0,Minor traffic jam reported near central square.,Low
+56.0,Delivery truck parked in no-parking zone.,Low
+57.0,Stray dog wandering in park.,Low
+58.0,Garbage collection delayed in residential area.,Low
+59.0,Pothole reported on main street.,Low
+60.0,Water leakage in public tap area.,Low
+61.0,Minor traffic jam reported near central square.,Low
+62.0,Loud music complaint from neighborhood.,Low
+63.0,Garbage collection delayed in residential area.,Low
+64.0,Loud music complaint from neighborhood.,Low
+65.0,Delivery truck parked in no-parking zone.,Low
+66.0,Delivery truck parked in no-parking zone.,Low
+67.0,Loud music complaint from neighborhood.,Low
+68.0,Construction noise complaint from residents.,Low
+69.0,Delivery truck parked in no-parking zone.,Low
+70.0,Garbage collection delayed in residential area.,Low
+71.0,Loud music complaint from neighborhood.,Low
+72.0,Loud music complaint from neighborhood.,Low
+73.0,Delivery truck parked in no-parking zone.,Low
+74.0,Construction noise complaint from residents.,Low
+75.0,Overcrowding reported at bus stop.,Low
+76.0,Water leakage in public tap area.,Low
+77.0,Pothole reported on main street.,Low
+78.0,Construction noise complaint from residents.,Low
+79.0,Streetlight not working on 5th Avenue.,Low
+80.0,Loud music complaint from neighborhood.,Low
+81.0,Streetlight not working on 5th Avenue.,Low
+82.0,Delivery truck parked in no-parking zone.,Low
+83.0,Minor traffic jam reported near central square.,Low
+84.0,Delivery truck parked in no-parking zone.,Low
+85.0,Minor traffic jam reported near central square.,Low
+86.0,Water leakage in public tap area.,Low
+87.0,Pothole reported on main street.,Low
+88.0,Streetlight not working on 5th Avenue.,Low
+89.0,Delivery truck parked in no-parking zone.,Low
+90.0,Minor traffic jam reported near central square.,Low
+91.0,Garbage collection delayed in residential area.,Low
+92.0,Stray dog wandering in park.,Low
+93.0,Water leakage in public tap area.,Low
+94.0,Water leakage in public tap area.,Low
+95.0,Overcrowding reported at bus stop.,Low
+96.0,Streetlight not working on 5th Avenue.,Low
+97.0,Streetlight not working on 5th Avenue.,Low
+98.0,Water leakage in public tap area.,Low
+99.0,Streetlight not working on 5th Avenue.,Low
+100.0,Stray dog wandering in park.,Low
+101,Unknown person attempting to access the back gate,High
+102,Delivery package left unattended outside office,Low
+103,Suspicious individual loitering near parking area,High
+104,Unauthorized person seen near server room,High
+105,Courier left parcel at the main entrance,Low
+106,Visitor without ID trying to enter building,High
+107,Package delivery placed incorrectly on the porch,Low
+108,Strange person hanging around lobby,High
+109,Maintenance staff left equipment unattended outside,Low
+110,Individual seen trying to open parked vehicle doors,High
