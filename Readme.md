@@ -2,10 +2,15 @@
 ├── SDC.py # Interactive script to classify incidents
 
 ├── SDC_pipeline.pkl # Trained Sentence Transformer + classifier pipeline
+
 ├── security_incidents_dataset.csv # Dataset for training/testing
+
 ├── training_recipe... # Training notes/documentation
+
 ├── requirements.txt # List of dependencies
+
 ├── .gitignore # Git ignore rules
+
 └── venv/ # Local virtual environment
 
 
